@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "New-Grotesk-Square";
+  src: url("./assets/fonts/NewGroteskSquare.ttf");
+}
+
+@font-face {
+  font-family: "poppins";
+  src: url("./assets/fonts/Poppins-Regular.ttf");
+}
